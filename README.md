@@ -5,6 +5,8 @@ MATE(Marco/X11)上で仮想デスクトップを操作するツール。2つの�
 - **vdhotkey.py** — グローバルホットキー常駐デーモン。デスクトップ切替・ウィンドウ移動・一覧表示をホットキーで操作し、タスクトレイにデスクトップ番号を表示する。通常はこちらを使う。
 - **vdmate.py** — ウィンドウ一覧ウィンドウ単体。vdhotkey.py から起動するほか、単独で呼び出してもよい。
 
+Windows 向けの AutoHotkey 版 [virtual-desktop-ahk](https://github.com/funa-take/virtual-desktop-ahk) を参考に作成した。
+
 ## 必要なもの
 
 以下は Linux Mint 22.3 / MATE 1.26.2 環境では標準で導入済み。
